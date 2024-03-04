@@ -13,3 +13,17 @@ git config -- user.name/email "###"
 git status
 git init
 git add ....
+git rm --cached . -r
+git commit
+
+echo "# fdr23-3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tanvir2266/fdr23-3.git
+git push -u origin main
+
+git remote add origin https://github.com/tanvir2266/fdr23-3.git
+git branch -M main
+git push -u origin main
