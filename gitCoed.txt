@@ -1,0 +1,15 @@
+pwd
+clear
+ls
+cd - working directory
+cd~ - root directory
+mkdir
+start fileName - run programe
+rm fileName - delete file
+rm-r fileName - folder delete
+
+git config -- user.name/email "###"
+
+git status
+git init
+git add ....
